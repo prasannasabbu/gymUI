@@ -1,0 +1,13 @@
+
+  .signup-form{
+    background-color: white; 
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.065);
+}
+.form-label{
+  color:black;
+}
+.btn{
+  margin: auto;
+  padding: 5px;
+  width: 25%;
+}

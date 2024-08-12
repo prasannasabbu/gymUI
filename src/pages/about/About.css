@@ -1,0 +1,44 @@
+.fitness_goal{
+    background-color: var(--dark-color);
+    color: #fff;    
+}
+
+.fitness_col1 h1 {
+    padding: 1rem 0;
+    font-weight: 500;
+    letter-spacing: 0.3px;
+}
+.fitness_col1 p {
+   font-size: 1.2 rem;
+}
+.fitness_col2 img{
+    padding: 0 1.5rem;
+    width:30%;
+    mix-blend-mode:lighten;
+}
+.fitness_col2{
+    margin-left:100px;
+}
+/********************************************************/
+.fitness_goal1{
+    background-color: var(--darklight-color);
+    color:#fff;
+    padding: 1.8rem 0;
+    height: 640px;
+}
+.fitness_col4 p{
+    padding: 0.2rem 0;
+    font-size: 0.5rem;
+}
+.fitness_col3 img{
+    border-radius: 10px;
+}
+.para span{
+    font-size: 20px;
+    display: block;
+    text-align:left;
+}
+#alter-color{
+    /* color:rgb(230, 119, 79); */
+    color:#fff;
+}
